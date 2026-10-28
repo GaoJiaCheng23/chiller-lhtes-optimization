@@ -1,0 +1,22 @@
+# Site data and generated spreadsheets (explicitly keep only the synthetic example)
+*.xlsx
+!input_example.xlsx
+*.xls
+*.xlsm
+*.csv
+*.mat
+
+# MATLAB temporary files
+*.asv
+*.m~
+slprj/
+codegen/
+
+# Runtime logs, local settings and operating system files
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this source code, please cite the associated research article when its bibliographic details become available."
+title: "Chiller–LHTES Capacity and Rolling Operation Optimization"
+type: software
+authors:
+  - family-names: Gao
+    given-names: Jiacheng
+license: MIT
